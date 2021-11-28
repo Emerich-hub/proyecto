@@ -1,0 +1,20 @@
+body {
+    background-image: url("../imagenes/b.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+
+
+}
+h1{
+font-size: 32px;
+font-family: georgia;
+color: white;
+font-weight: bolder;
+font-variant: small-caps;
+letter-spacing: 4px;
+margin-top: 11%;
+margin-left: 15%;
+}
